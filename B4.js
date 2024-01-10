@@ -1,0 +1,1 @@
+let answer = prompt("Bạn đã đủ 18 tuổi chưa?");
